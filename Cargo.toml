@@ -1,0 +1,4 @@
+[package]
+name = "returnal-server"
+version = "0.1.0"
+authors = ["Andrew Suzuki <andrew.b.suzuki@gmail.com>"]
